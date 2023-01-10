@@ -17,7 +17,11 @@
     "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^5.0.0",
     "gulp-uglify": "^3.0.2",
+    "isotope-layout": "^3.0.6",
     "jquery": "^3.6.0",
-    "sass": "^1.43.4"
+    "jquery-form-styler": "^2.0.2",
+    "rateyo": "^2.3.2",
+    "sass": "^1.43.4",
+    "slick-carousel": "^1.8.1"
   }
 }

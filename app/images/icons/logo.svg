@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102 33" width="102" height="33">
+	<title>Шапка</title>
+	<defs>
+		<image  width="102" height="33" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAAAhCAMAAAAcXC6EAAAAAXNSR0IB2cksfwAAADNQTFRF7ENkAAAA////////////////////////////////////////////////////////////MrWCBgAAABF0Uk5T/wCq/+4iEXeZM7tVRMxmiN1bNRXcAAABpUlEQVR4nO2WSZKEIBAAZUdB5P+vHRGQYinG7onwNJyEiiRZpZbljUJesbynIa+Uf803GspK4aINS6WvCFWyQ1e1XTGtDDGMiRm1bEDDGo2AY6B10O6sLm5GLUTfTftaWywPrZskMo7FgJiKEwlfe60ZUufe8KwxjSW2ruXTNRYeKwcMjqlT47PG1isGFjJ/5+maWPWpSosGoXDNNgBSv5LXGlE0CIVqDBsAqS9VW8m1v25GoZptCOxXLB+yW2OzBqMwjWRDgIWLsObKrQl9mBmFaQwCGBgrGsu8nFGYRiGAgjFPmoJSmOZAAJ02fKxBKUyjMaDTqFTEjPqrpoyf0S80TxetbHrYto8X7fERkH4UeXoEZgfaQc09N/fhgdbhdXt+PaHmg+spI0GHQPzZZKLToFSvUZGwQ2Dw66w0GNVrfPMX/O0hqDSPHwKXCcF7ID9rDtUgFHykg0b4m5g90rFvDjQ8DQF7pMvNPTXOg+5mKUe8iMd57OIoS7oyTjmqBKqa/7kHGjQ2CZSBCZR3IDKiqnSw1cDErssUiU2pE1VN4jWgfgBa4SNRrne1WAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Шапка">
+		<g id="лого">
+			<use id="линия Лого" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>
